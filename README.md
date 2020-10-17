@@ -26,3 +26,7 @@ Lista sin numerar
 - Elemento
 - Elemento
 
+
+> Esta **palabra** va en negrita.
+~~holas~~
+hola como estan las cosa hoy
