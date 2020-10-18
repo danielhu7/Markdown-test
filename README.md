@@ -1,6 +1,6 @@
 # Markdown
 
-    Esta hoja proporciona una descripción general de elementos de markdown
+Esta hoja proporciona una descripción general de elementos de markdown
 
 ---
 ---
@@ -12,7 +12,7 @@
 
 ## Titulos
 
-    " # " Nos mostrara una linea de tilulo,  mientras mas " # " se usen an inicio de un titulo menor sera su tamaño
+ " # " Nos mostrara una linea de tilulo,  mientras mas " # " se usen an inicio de un titulo menor sera su tamaño
 
 ## Esto es un Titulo
 
@@ -22,7 +22,7 @@
 
 ## Cuadro de texto
 
-    Los bloques de texto se obtendran usando Tab al iniciar el texto, sin estos espacios el texto sera un texto normal
+ Los bloques de texto se obtendran usando Tab al iniciar el texto, sin estos espacios el texto sera un texto normal
 
 Esto es un texto normal
 
@@ -32,8 +32,8 @@ Esto es un texto normal
 
 ## *Cursiva* **Negrita** ~~Tachado~~
 
-    Para obtener alguno de estos 3 tipos de escritura Se utilizara
-    
+Para obtener alguno de estos 3 tipos de escritura Se utilizara
+
      " * " para *Cursiva*
      " ** " para **Negrita**
      " ~~ " para ~~Tachado~~
@@ -42,19 +42,19 @@ Esto es un texto normal
 
 ## Tablas
 
-    Las tablas se generaran utilizando
-    
+ Las tablas se generaran utilizando
+
     1. Para una lista nimerada
     *  Para una lista sin numerar
     -  Para una lista sin numerar
 
-### Lista numerada
+ Lista numerada
 
 1. Elemento 1
 2. Elemento 2
 3. Elemento 3
 
-### Lista sin numerar
+ Lista sin numerar
 
 * Uno
 * Dos
@@ -68,7 +68,7 @@ Esto es un texto normal
 
 ## Linea horizontal
 
-    Una linea horizontal sera colocada en la hoja al colocar ---
+Una linea horizontal sera colocada en la hoja al colocar ---
 
 ---
 ---
@@ -76,7 +76,7 @@ Esto es un texto normal
 
 ## Cita Textual
 
-    se obtendra un cuadro de cita textual al utilizar > al inicio de un reglon
+se obtendra un cuadro de cita textual al utilizar > al inicio de un reglon
 
 > Hola mundo.
 
@@ -84,7 +84,7 @@ Esto es un texto normal
 
 ## Bloque de codigo
 
-    Poner un texto entre `` generara un bloque de codigo
+Poner un texto entre `` generara un bloque de codigo
 
 `Esto es una linea de codigo`
 
