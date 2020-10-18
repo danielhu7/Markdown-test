@@ -98,7 +98,7 @@ Poner un texto entre `` generara un bloque de codigo
 
 ## Imagen
 
-![alt text](image.jpg)
+![Flor](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FNelumbo_nucifera&psig=AOvVaw2X--7CkjlAxcmuHWa3ojiR&ust=1603123211925000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCI7cDBvuwCFQAAAAAdAAAAABAD)
 
 ---
 
