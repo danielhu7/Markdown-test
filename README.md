@@ -81,6 +81,32 @@ Tabla anidada
 
 ---
 
+## Tablas 2
+
+Markdown permite dibujar tablas mediante plecas (|). Para crear encabezados que se distingan visualmente del resto del contenido, se subrayan las celdas correspondientes con guiones
+
+Columna 1|Columna 2|  
+\|--------|--------|  
+\|    A    |    B    |  
+\|    C    |    D    |  
+
+Columna 1|Columna 2|
+|--------|--------|
+|    A    |    B    |
+|    C    |    D    |
+
+---
+
+## Listas
+
+Markdow permitira crear listas de verificacion colocando []
+
+[x] A  
+[ ] B  
+[ ] C  
+
+---
+
 ## Linea horizontal
 
 Una linea horizontal sera colocada en la hoja al poder alguno de los siguientes signos en una linea de 3 --- *** ___
@@ -109,7 +135,7 @@ Tambien se podran poner citas dentro de otras con >>
 
 Poner un texto entre `` generara un bloque de codigo
 
-`Esto es una linea de codigo`  
+`Esto es una linea de codigo`
 
 ---
 
@@ -145,3 +171,23 @@ Para agregar una imagen sera lo mismo pero andes del [] se agregara un !
     ![Nombre enlace](Link)
 
 ![Flor](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nelumno_nucifera_open_flower_-_botanic_garden_adelaide.jpg/1200px-Nelumno_nucifera_open_flower_-_botanic_garden_adelaide.jpg)
+
+---
+
+## Notas al pie de la pagina
+
+Puedes colocar [^1] notas en el pie de página [^2] fácilmente.
+[^1]: Aquí encuentras el texto de la nota al pie de página.
+[^2]: **Las notas de pie de página** pueden *formatearse* también.
+Estas pueden ocupar varias líneas.
+
+---
+
+## Omitir Markdown
+
+Para que markdow no interpete los simbolos solo se debe utiluzar una \ al inicio  
+
+\#  
+\[]  
+\-  
+\*  
