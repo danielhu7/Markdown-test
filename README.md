@@ -176,11 +176,11 @@ Para agregar una imagen sera lo mismo pero andes del [] se agregara un !
 
 ## Notas al pie de la pagina
 
-Puedes colocar [^1] notas en el pie de página [^2] fácilmente.  
+Puedes colocar [^Nota1] notas en el pie de página [^Nota2] fácilmente.  
 
-[^1]: Aquí encuentras el texto de la nota al pie de página.  
+[^Nota1]: Aquí encuentras el texto de la nota al pie de página.  
 
-[^2]: **Las notas de pie de página** pueden *formatearse* también.
+[^Nota2]: **Las notas de pie de página** pueden *formatearse* también.
 Estas pueden ocupar varias líneas.
 
 ---
