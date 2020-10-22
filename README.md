@@ -53,7 +53,7 @@ Para obtener alguno de estos 3 tipos de escritura Se utilizara
 
  Las tablas se generaran utilizando
 
-    1. Para una lista nimerada
+    1. Para una lista numerada
     *  Para una lista sin numerar
     -  Para una lista sin numerar
     +  Para una lista sin numerar
