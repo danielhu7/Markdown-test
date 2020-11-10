@@ -196,3 +196,14 @@ Para que markdow no interpete los simbolos solo se debe utiluzar una \ al inicio
 \[]  
 \-  
 \*  
+
+## Referencias cruzadas
+
+
+Las referencias cruzadas sirven para añadir links a partes especificas de tu documento
+
+Quiero que [este enlace](#referencias-cruzadas) vaya al encabezado de referencias cruzadas.
+---
+
+## Notas al pie de la pagina (esto aun no sirve)
+ 
