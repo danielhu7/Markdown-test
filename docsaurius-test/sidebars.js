@@ -4,7 +4,7 @@ module.exports = {
     // Features: ['mdx'],
     // Pacman: ['pacman'],
     "Introducción": ['shape/shape_editor4'],
-    "Shape editor": ['shape/shape_editor', 'shape/shape_editor2', 'shape/shape_editor3']
+    "Shape editor": ['shape/shape_editor', 'shape/shape_editor2', 'shape/shape_editor3', 'shape/shape_editor5', 'shape/shape_editor6']
   },
 };
 1
