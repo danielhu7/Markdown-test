@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Editor GTFS',
-  tagline: 'The tagline of my site',
+  tagline: 'Editor GTFS',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/Markdown-test/docsaurius-test/build/',
+  baseUrl: '/Markdown-test/docsaurius/build/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'Camellito', // Usually your GitHub org/user name.
+  organizationName: 'hubros', // Usually your GitHub org/user name.
   projectName: 'shape editor', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -38,10 +38,6 @@ module.exports = {
               label: 'Style Guide',
               to: 'docs/',
             },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
           ],
         },
         {
@@ -49,15 +45,15 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discordapp.com',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/',
             },
           ],
         },
@@ -70,12 +66,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} GTFS Editor, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -86,13 +82,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

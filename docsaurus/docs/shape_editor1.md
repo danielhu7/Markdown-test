@@ -1,5 +1,5 @@
 ---
-id: shape_editor
+id: shape_editor1
 title: Uso del mapa
 sidebar_label: Mapa
 slug: /Guia-mapa
