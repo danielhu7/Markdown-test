@@ -1,8 +1,20 @@
 ---
-id: shape_editor2
+id: editor_barralateral
 title: Barra de herramientas lateral
 sidebar_label: Barra de Herramientas
 slug: /Guia-Barra
+---
+
+Utilizando la acción de select sobre un punto se mostrara un cuadro de opciones que mostrara la información de ese punto en función del tipo de punto.
+
++ Tipo intersection y Shape
+
+El cuadro de estos mostrará la ID del nodo con un número, una barra de selección y un botón para guardar la configuración.
+
++ Tipo endpoint y stop
+
+Mostrará dos linea extra, una para cambiar su ID y la otra para agregar un nombre a la parada.
+
 ---
 
 La barra de herramientas se encuentra al lado izquierdo.

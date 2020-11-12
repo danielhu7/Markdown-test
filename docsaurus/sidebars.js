@@ -1,7 +1,9 @@
 module.exports = {
   someSidebar: {
-    "Introducción": ['shape_editor4'],
-    "Shape editor": ['shape_editor1', 'shape_editor2', 'shape_editor3', 'shape_editor5', 'shape_editor6']
+    "Introducción": ['intro_introduccion', 'intro_agency', 'intro_shape', 'intro_stops'],
+    "Shape editor": ['editor_mapa', 'editor_barralateral', 'shape_editor3'], 
+    // "Ejemplos:" ['crear_agencia', 'crear_ruta', 'crear_recorrido'],
+    "Mas información": ['referencias']
   },
 };
-1
+
