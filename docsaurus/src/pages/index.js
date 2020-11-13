@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Fácil de usar',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      El editor procura apoyar la labor de crear archivos GTFS feed de manera rápida y sencilla.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Óptimizado para el trópico',
+    imageUrl: 'img/tucan.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+	    Las tecnologías se aplican de diferentes formas en todas partes del mundo es por esto que este editor ha sido elaborado con el objetivo de adaptar el formato a las necesidades específicas de la región.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Tecnología web',
+    imageUrl: 'img/open_source.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+	    Las tecnologías utilizadas para la elaboración del editor son en su mayoría Web, lo que lo convierte en una opción sencilla de utilizar en cualquier plataforma.
       </>
     ),
   },
@@ -72,7 +69,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+            Iniciar 
             </Link>
           </div>
         </div>
