@@ -2,7 +2,7 @@ module.exports = {
   title: 'Editor GTFS',
   tagline: 'Editor GTFS',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/Markdown-test/docsaurius/build/',
+  baseUrl: '/editordoc/docsaurus/build/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'hubros', // Usually your GitHub org/user name.
@@ -22,7 +22,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/jeancahu/GTFS_shapes_editor_JS',
+          href: 'https://github.com/jeancahu/GTFS_shapes_editor_JS/',
           label: 'GitHub',
           position: 'right',
         },
@@ -60,10 +60,6 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/',
