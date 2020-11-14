@@ -17,7 +17,7 @@ const features = [
     ),
   },
   {
-    title: 'Óptimizado para el trópico',
+    title: 'Optimizado para el trópico',
     imageUrl: 'img/tucan.png',
     description: (
       <>
