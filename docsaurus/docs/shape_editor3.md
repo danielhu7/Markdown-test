@@ -1,8 +1,8 @@
 ---
 id: shape_editor3
-title: Barra inferior
-sidebar_label: Barra inferior
-slug: /Guia-barrabaja
+title: Tablas
+sidebar_label: Tablas
+slug: /tables
 ---
 
 La barra baja se compone por siete botones los cuales agregaran información tanto de la empresa como del recorrido o las paradas del transporte.

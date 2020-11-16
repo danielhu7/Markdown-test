@@ -1,7 +1,7 @@
 ---
 id: editor_barralateral
 title: Barra de herramientas lateral
-sidebar_label: Barra de Herramientas
+sidebar_label: Barra lateral
 slug: /Guia-Barra
 ---
 
